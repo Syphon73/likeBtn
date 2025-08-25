@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#play-btn{
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: #FC4848;
+    color: white;
+    border-color: #FC4848;
+}
